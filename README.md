@@ -1,2 +1,2 @@
-# Local Development Environment for different stacks
+# Local Development Environment for diverse stacks
 
